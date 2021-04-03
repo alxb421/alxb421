@@ -12,7 +12,7 @@
 <!--- ⚡ Fun fact: ...-->
 <!-- - 😄 Pronouns: ...-->
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1c1c1c?style=for-the-badge&logo=twitter)](https://twitter.com/alxb421)
-![GitHub](https://img.shields.io/github/followers/ibzann?color=1c1c1c&label=follow&logo=github&style=for-the-badge)
+![GitHub](https://img.shields.io/github/followers/alxb421?color=1c1c1c&label=follow&logo=github&style=for-the-badge)
 [![Website](https://img.shields.io/badge/Portfolio-Visit-1c1c1c?style=for-the-badge)](https://pearos.xyz)
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=alxb421&show_icons=true&theme=dark&icon_color=eee">     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxb421&theme=dark&hide_langs_below=1-"></p>
