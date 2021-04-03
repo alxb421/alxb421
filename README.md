@@ -35,6 +35,7 @@
 - Assets creating
 - Advanced googleing
 - Projects addapting (i.e. from KDEconnect to PairDrop)
+- Basic OSINT and pentesting
 - GNU Image Manipulation (GIMP)
 - Adobe PhotoShop
 - Adobe Lightroom
