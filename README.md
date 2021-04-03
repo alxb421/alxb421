@@ -22,13 +22,13 @@
 - CSS <img height="15" src="https://cdn.345tool.com/public/logos/css-formatter-logo.png">
 - Some Javascript <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 - Some PHP <img height="15" src="https://svgshare.com/i/V9h.svg">
-- Gambas3
-- Shell(bash)
+- Gambas3 <img height="15" src="https://reposcope.com/media/unknown/none/unknown/application-x-gambas3.png">
+- Shell(bash) <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png">
 
 
 # Skills
-- Webserver management
-- I can find quick and short sollutions to some problems
+- Webserver management <img height="15" src="https://techzog.com/wp-content/uploads/2016/05/webserver.png">
+- I can find quick and short sollutions to some problems h<img height="15" src="ttps://lh3.googleusercontent.com/proxy/Wn8kWnnATjM_cTViYx4kfGdtnzEf4dTPSqQEnE_piA6IPkECzkM5g24fGkgiiRDsKgPtly7_jF5gCMaVwmrMfqSF07CFqHCBl4ytN0Fd6Ggj4_Ar2YIOlg">
 - I like doing my own things
 - I learn from examples
 - I'm a mechanical type of person(programming style)
