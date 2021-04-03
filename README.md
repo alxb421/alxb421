@@ -42,9 +42,9 @@
 - Some Adobe After Effects
 - Some Adobe Illustrator
 - Some Adobe Dreamweaver
-- Some Adobe XD
-- Project Management
+- Some Adobe Experience Design
 - Some Inkscape
 - Some Blender
 - Some Git commands
 - Some marketing
+- Project Management
