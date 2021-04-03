@@ -35,3 +35,16 @@
 - Assets creating
 - Advanced googleing
 - Projects addapting (i.e. from KDEconnect to PairDrop)
+- GNU Image Manipulation (GIMP)
+- Adobe PhotoShop
+- Adobe Lightroom
+- Adobe Media Encoder
+- Some Adobe After Effects
+- Some Adobe Illustrator
+- Some Adobe Dreamweaver
+- Some Adobe XD
+- Project Management
+- Some Inkscape
+- Some Blender
+- Some Git commands
+- Some marketing
