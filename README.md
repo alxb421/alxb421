@@ -28,7 +28,7 @@
 
 # Skills
 - Webserver management <img height="15" src="https://techzog.com/wp-content/uploads/2016/05/webserver.png">
-- I can find quick and short sollutions to some problems h<img height="15" src="ttps://lh3.googleusercontent.com/proxy/Wn8kWnnATjM_cTViYx4kfGdtnzEf4dTPSqQEnE_piA6IPkECzkM5g24fGkgiiRDsKgPtly7_jF5gCMaVwmrMfqSF07CFqHCBl4ytN0Fd6Ggj4_Ar2YIOlg">
+- I can find quick and short sollutions to some problems <img height="15" src="ttps://lh3.googleusercontent.com/proxy/Wn8kWnnATjM_cTViYx4kfGdtnzEf4dTPSqQEnE_piA6IPkECzkM5g24fGkgiiRDsKgPtly7_jF5gCMaVwmrMfqSF07CFqHCBl4ytN0Fd6Ggj4_Ar2YIOlg">
 - I like doing my own things
 - I learn from examples
 - I'm a mechanical type of person(programming style)
