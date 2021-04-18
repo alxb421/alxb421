@@ -1,5 +1,5 @@
 
-<h1>Hello there. My name is Alexandru Balan</h1>
+<h1>Hello there. My name is Alex</h1>
 
 - 🔭 I’m currently working on pearOS - A Linux distro that aims to look and behave like Apple's macOS
 - 🌱 I’m currently learning programming(various programming languages)
