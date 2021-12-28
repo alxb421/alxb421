@@ -1,6 +1,8 @@
 
 <h1>Hello there. My name is Alex</h1>
 
+
+![](https://komarev.com/ghpvc/?username=alxb421&color=dc143c)
 - 🔭 I’m currently working on pearOS - A Linux distro that aims to look and behave like Apple's macOS
 - 🌱 I’m currently learning programming(various programming languages)
 - 📫 How to reach me: [email](mailto:alex@pearos.xyz), [instagram](instagram.com/alxb421)
