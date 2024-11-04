@@ -19,10 +19,10 @@
 
 ---
 
+- 🏬 I am the Owner of Pear Software and Services Limited
 - 🔭 I’m currently working on pearOS - A Linux distro that aims to look and behave like Apple's macOS
-- 🌱 I’m currently learning programming(various programming languages)
 - 🌎 I live in Romania
-- 📫 How to reach me: [email](mailto:alex@pearos.xyz), [instagram](instagram.com/alxb421)
+- 📫 How to reach me: [email](mailto:alex@pear-software.com), [instagram](instagram.com/alxb421)
 - Known languages:
   - 🇷🇴 Romanian
   - 🇬🇧 English
@@ -40,10 +40,10 @@
 
 # Skills
 - I like doing my own things
-- Projects addapting and forking (i.e. from KDEconnect to PairDrop, vAssistant to Piri)
+- Projects addapting and forking
 - Adobe PhotoShop
 - Adobe Lightroom
-- Some Git commands
+- Git
 - Project Management
 
-<sub>Website: https://alexandru-balan.ga</sub>
+<sub>Website: https://alex@pearos.xyz</sub>
