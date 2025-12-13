@@ -46,4 +46,4 @@
 - Git
 - Project Management
 
-<sub>Website: https://alex@pearos.xyz</sub>
+<sub>Website: https://alex.pear-software.com</sub>
