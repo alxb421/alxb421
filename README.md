@@ -15,6 +15,8 @@
 
 ![User Views](https://komarev.com/ghpvc/?username=alxb421&color=dc143c)
 
+[![Alexandru Balan profile views](https://u8views.com/api/v1/github/profiles/72302254/views/day-week-month-total-count.svg)](https://u8views.com/github/alxb421)
+
 <h1>Hello there. My name is Alex</h1>
 
 ---
